@@ -10,6 +10,9 @@ Projet mini robot suiveur de ligne
 - Teste encodeur rotatif
   lien : https://github.com/alexandrekong/LPAII-Domotique/blob/Programe/encodeur_rotatif.ino
 - Teste des fonctions du robot
+
+  lien programme : https://github.com/alexandrekong/LPAII-Domotique/blob/Programe/encodeurLcdPwm.ino
+
   lien youtub : https://www.youtube.com/watch?v=6NvYZ5g_OBw
 
 wiki : https://github.com/alexandrekong/LPAII-Domotique/wiki
