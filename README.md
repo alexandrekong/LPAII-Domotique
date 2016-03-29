@@ -15,7 +15,7 @@
   lien : https://github.com/alexandrekong/LPAII-Domotique/blob/Programe/pwm.ino
 - Teste encodeur rotatif
   lien : https://github.com/alexandrekong/LPAII-Domotique/blob/Programe/encodeur_rotatif.ino
-- Teste des fonctions du robot
+- Teste des fonctions du robot :
 
   lien programme : https://github.com/alexandrekong/LPAII-Domotique/blob/Programe/encodeurLcdPwm.ino
 
